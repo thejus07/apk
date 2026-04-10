@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Roadmap</string>
+    <string name="title_activity_main">Roadmap</string>
+    <string name="package_name">com.theju.roadmap</string>
+    <string name="custom_url_scheme">com.theju.roadmap</string>
+</resources>
